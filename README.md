@@ -1,6 +1,6 @@
 ## Description
 
-A CMS versionning management with NodeJS. Goals are:
+A CMS versionning management with NestJS. Goals are:
 1. save a version for a new resource (création d'une ressource dans le CMS)
 2. Save additional versions for an existing resource when edited via the CMS
 3. Get the list of versions for a particular resource
@@ -19,7 +19,7 @@ $ npm install
 
 ```bash
 
-#database
+# database
 $ docker-compose up
 
 # development

@@ -1,0 +1,38 @@
+
+{
+    "end_date": "2019-12-30",
+   "entities": [
+      {
+        "context": "state in East Asia",
+        "entity_of_interest": "Q148",
+        "keywords": [
+          "inflation"
+        ]
+      }
+    ],
+  "co_mentions": [
+    "CHN",
+    "PRC",
+    "CN",
+    "Communist China",
+    ":cn:",
+    "Chine populaire",
+    "Chine",
+    "China",
+    "People's Republic of China",
+    "République populaire de Chine",
+    "RPC",
+    "Chine continentale",
+    "PR China",
+    "Chine communiste",
+    "cn"
+  ],
+    "min_match": 1,
+    "min_repeat": 1,
+    "qscore": 50,
+    "semantics": "mcontext",
+    "sites_exclude": [
+      "apple.com"
+    ],
+    "start_date": "2019-09-01"
+  }
